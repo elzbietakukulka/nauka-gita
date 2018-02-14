@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>RWD</title>
+		<link rel="stylesheet" type="text/css" href="style.css">
+	</head>
+	<body>
+		
+		<!-- HEADER -->
+		<header>
+			<div class="container">
+				<nav>
+					<h2 class="logo">Logo</h2>
+					<ul>
+						<li><a href="#">Home</a></li>
+						<li><a href="#">Pages</a></li>
+						<li><a href="#">Contact</a></li>
+						<li><a href="#">Feature</a></li>
+						<li><a href="#">Services</a></li>
+						<li><a href="#">Blog</a></li>
+					</ul>
+				</nav>
+			</div>
+		</header>
+		
+		<!-- HERO -->
+		<section class="hero">
+			<div class="container">
+			</div>
+		</section>
+		
+		<!-- GALLERY -->
+		<section class="gallery">
+			<div class="container">
+				<img class="photo" src="https://cdn.stocksnap.io/img-thumbs/960w/QYDRWBCRJJ.jpg" alt="">
+				<img class="photo" src="https://cdn.stocksnap.io/img-thumbs/960w/JVTNFGBMO4.jpg" alt="">
+				<img class="photo" src="https://cdn.stocksnap.io/img-thumbs/960w/4B69RX5N5I.jpg" alt="">
+			</div>
+		</section>
+		
+		<!-- MAP -->
+		<figure class="map">
+			<div class="container">
+				<img src="https://maps.googleapis.com/maps/api/staticmap?center=Brooklyn+Bridge,New+York,NY&scale=2&zoom=13&size=600x300&maptype=roadmap&markers=color:blue%7Clabel:S%7C40.702147,-74.015794&markers=color:red%7Clabel:Company%7C40.718217,-73.998284&key=AIzaSyAM25w4QrwIXC7VoKjllL31o4UjhP7lYFc" alt="">
+			</div>
+		</figure>
+		
+		<!-- FOOTER -->
+		<footer>
+			<p>Copyright 2018</p>
+		</footer>
+	</body>
+</html>
