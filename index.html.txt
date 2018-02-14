@@ -11,7 +11,7 @@
 		<header>
 			<div class="container">
 				<nav>
-					<h1 class="logo">Logo</h1>
+					<h1 class="logo">NAZWA</h1>
 					<ul>
 						<li><a href="#">Home</a></li>
 						<li><a href="#">Pages</a></li>
