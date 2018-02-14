@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 	<head>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -11,7 +11,7 @@
 		<header>
 			<div class="container">
 				<nav>
-					<h2 class="logo">Logo</h2>
+					<h1 class="logo">Logo</h1>
 					<ul>
 						<li><a href="#">Home</a></li>
 						<li><a href="#">Pages</a></li>
