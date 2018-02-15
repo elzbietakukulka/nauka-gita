@@ -2,7 +2,7 @@
 <html lang="en">
 	<head>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<title>Page</title>
+		<title>Page master</title>
 		<link rel="stylesheet" type="text/css" href="style.css">
 	</head>
 	<body class="content">
@@ -56,5 +56,6 @@
 		<footer>
 			<p>Copyright 2018</p>
 		</footer>
+		<p>Master</p>
 	</body>
 </html>
