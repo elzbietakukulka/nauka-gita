@@ -11,8 +11,8 @@
 		<header>
 			<div class="container">
 				<nav>
-					<h1 class="logo">LOGO</h1>
-						<p>Tekst</p>
+					<h1 class="logo name">LOGO</h1>
+						<p>Tekst o czymś</p>
 					<ul>
 						<li><a href="#">Home</a></li>
 						<li><a href="#">Pages</a></li>
