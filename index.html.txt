@@ -12,7 +12,7 @@
 			<div class="container">
 				<nav>
 					<h1 class="logo name">LOGO</h1>
-						<p>Tekst</p>
+						<p>Tekst o czymś</p>
 					<ul>
 						<li><a href="#">Home</a></li>
 						<li><a href="#">Pages</a></li>
