@@ -51,6 +51,7 @@
 			</div>
 		</figure>
 		
+		<p>Lorem Ipsum</p>
 		<!-- FOOTER -->
 		<footer>
 			<p>Copyright 2018</p>
